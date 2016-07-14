@@ -1,0 +1,367 @@
+{
+    "name": "Frybread, made with lard (Apache)",
+    "nutrients": {
+        "405": {
+            "amount": 0.5749960857392016,
+            "source": "USDA"
+        },
+        "306": {
+            "amount": 0.19894304461743856,
+            "source": "USDA"
+        },
+        "320": {
+            "amount": 0.1639364884356984,
+            "source": "Imputed from USDA"
+        },
+        "517": {
+            "amount": 1.4851616755818455,
+            "source": "Imputed from USDA"
+        },
+        "334": {
+            "amount": 0.03053061223928683,
+            "source": "Imputed from USDA"
+        },
+        "618": {
+            "amount": 0.24597808576422203,
+            "source": "USDA"
+        },
+        "619": {
+            "amount": 0.06772657206415285,
+            "source": "USDA"
+        },
+        "505": {
+            "amount": 0.45617907420984044,
+            "source": "Imputed from USDA"
+        },
+        "630": {
+            "amount": 0.011684155426713574,
+            "source": "Imputed from USDA"
+        },
+        "503": {
+            "amount": 0.7925189943204363,
+            "source": "Imputed from USDA"
+        },
+        "435": {
+            "amount": 0.8187274908729366,
+            "source": "USDA"
+        },
+        "578": {
+            "amount": 0.2615239546642298,
+            "source": "Imputed from USDA"
+        },
+        "515": {
+            "amount": 1.5556008732169602,
+            "source": "Imputed from USDA"
+        },
+        "504": {
+            "amount": 0.9254578963866482,
+            "source": "Imputed from USDA"
+        },
+        "303": {
+            "amount": 0.5945509822645206,
+            "source": "USDA"
+        },
+        "509": {
+            "amount": 0.8546986888111834,
+            "source": "Imputed from USDA"
+        },
+        "208": {
+            "amount": 1.8191237437661336,
+            "source": "USDA"
+        },
+        "605": {
+            "amount": 0.19323488693145496,
+            "source": "Imputed from USDA"
+        },
+        "573": {
+            "amount": 0.04730987924778341,
+            "source": "Imputed from USDA"
+        },
+        "305": {
+            "amount": 0.5443916845734914,
+            "source": "USDA"
+        },
+        "328": {
+            "amount": 0.13958635939569447,
+            "source": "Imputed from USDA"
+        },
+        "255": {
+            "amount": 1.0760713668247641,
+            "source": "USDA"
+        },
+        "609": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "204": {
+            "amount": 0.6336764703853262,
+            "source": "USDA"
+        },
+        "620": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "321": {
+            "amount": 0.04063316078241359,
+            "source": "Imputed from USDA"
+        },
+        "612": {
+            "amount": 0.09710723107856364,
+            "source": "USDA"
+        },
+        "631": {
+            "amount": 0.01862914075309152,
+            "source": "Imputed from USDA"
+        },
+        "415": {
+            "amount": 0.13812023730908338,
+            "source": "USDA"
+        },
+        "404": {
+            "amount": 0.9905808870893789,
+            "source": "USDA"
+        },
+        "205": {
+            "amount": 1.6534670253304533,
+            "source": "USDA"
+        },
+        "645": {
+            "amount": 0.49208142119404535,
+            "source": "USDA"
+        },
+        "516": {
+            "amount": 0.6079846252714538,
+            "source": "Imputed from USDA"
+        },
+        "315": {
+            "amount": 0.055242253878475915,
+            "source": "USDA"
+        },
+        "501": {
+            "amount": 0.9738973564339699,
+            "source": "Imputed from USDA"
+        },
+        "421": {
+            "amount": 0.40132771392435296,
+            "source": "Imputed from USDA"
+        },
+        "430": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "323": {
+            "amount": 0.018866609016425333,
+            "source": "USDA"
+        },
+        "207": {
+            "amount": 0.7815634978631619,
+            "source": "USDA"
+        },
+        "318": {
+            "amount": 0.20672282968836164,
+            "source": "Imputed from USDA"
+        },
+        "514": {
+            "amount": 0.7364380796895055,
+            "source": "Imputed from USDA"
+        },
+        "406": {
+            "amount": 0.8874356998293134,
+            "source": "USDA"
+        },
+        "614": {
+            "amount": 0.5406319753227987,
+            "source": "USDA"
+        },
+        "268": {
+            "amount": 1.817735663450156,
+            "source": "USDA"
+        },
+        "417": {
+            "amount": 0.7899462425011334,
+            "source": "USDA"
+        },
+        "291": {
+            "amount": 0.3258670691401775,
+            "source": "USDA"
+        },
+        "511": {
+            "amount": 0.6831255288986618,
+            "source": "Imputed from USDA"
+        },
+        "203": {
+            "amount": 0.7957759944056597,
+            "source": "USDA"
+        },
+        "432": {
+            "amount": 0.2891942944131322,
+            "source": "USDA"
+        },
+        "410": {
+            "amount": 0.5231853653593681,
+            "source": "Imputed from USDA"
+        },
+        "418": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "507": {
+            "amount": 1.4469631681643627,
+            "source": "Imputed from USDA"
+        },
+        "322": {
+            "amount": 0.010786696924900748,
+            "source": "Imputed from USDA"
+        },
+        "431": {
+            "amount": 0.3778691683636535,
+            "source": "USDA"
+        },
+        "269": {
+            "amount": 0.09293510660535523,
+            "source": "USDA"
+        },
+        "613": {
+            "amount": 0.7332990242181694,
+            "source": "USDA"
+        },
+        "512": {
+            "amount": 0.705978403853089,
+            "source": "Imputed from USDA"
+        },
+        "626": {
+            "amount": 0.24785598681560328,
+            "source": "USDA"
+        },
+        "606": {
+            "amount": 0.547000796725871,
+            "source": "USDA"
+        },
+        "610": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "304": {
+            "amount": 0.32798426821244653,
+            "source": "USDA"
+        },
+        "338": {
+            "amount": 0.06027169380849652,
+            "source": "Imputed from USDA"
+        },
+        "510": {
+            "amount": 0.862439906620993,
+            "source": "Imputed from USDA"
+        },
+        "607": {
+            "amount": 0.10061552067614148,
+            "source": "Imputed from USDA"
+        },
+        "337": {
+            "amount": 0.029790860990926697,
+            "source": "Imputed from USDA"
+        },
+        "608": {
+            "amount": 0.11152967562108873,
+            "source": "Imputed from USDA"
+        },
+        "628": {
+            "amount": 0.11513893809996482,
+            "source": "USDA"
+        },
+        "646": {
+            "amount": 0.2463411404219983,
+            "source": "USDA"
+        },
+        "221": {
+            "amount": 0.0004987349069807697,
+            "source": "Imputed from USDA"
+        },
+        "601": {
+            "amount": 0.02621620147644106,
+            "source": "USDA"
+        },
+        "319": {
+            "amount": 0.1334539872017615,
+            "source": "Imputed from USDA"
+        },
+        "502": {
+            "amount": 0.6611363021453643,
+            "source": "Imputed from USDA"
+        },
+        "312": {
+            "amount": 0.16255347379225712,
+            "source": "USDA"
+        },
+        "317": {
+            "amount": 0.20900569987750703,
+            "source": "USDA"
+        },
+        "324": {
+            "amount": 0.14762068097295894,
+            "source": "Imputed from USDA"
+        },
+        "621": {
+            "amount": 0.016220498433362596,
+            "source": "Imputed from USDA"
+        },
+        "401": {
+            "amount": 0.10914608432385206,
+            "source": "Imputed from USDA"
+        },
+        "518": {
+            "amount": 1.1380692520438513,
+            "source": "Imputed from USDA"
+        },
+        "513": {
+            "amount": 0.653434411862131,
+            "source": "Imputed from USDA"
+        },
+        "617": {
+            "amount": 0.46362579360978146,
+            "source": "USDA"
+        },
+        "506": {
+            "amount": 0.5266608184987922,
+            "source": "Imputed from USDA"
+        },
+        "508": {
+            "amount": 1.1282760587074077,
+            "source": "Imputed from USDA"
+        },
+        "263": {
+            "amount": 0.04971464168647771,
+            "source": "Imputed from USDA"
+        },
+        "611": {
+            "amount": 0.0,
+            "source": "USDA"
+        },
+        "627": {
+            "amount": 0.03095167546003344,
+            "source": "Imputed from USDA"
+        },
+        "629": {
+            "amount": 0.018535421118810583,
+            "source": "Imputed from USDA"
+        },
+        "307": {
+            "amount": 0.7039192510869767,
+            "source": "USDA"
+        },
+        "301": {
+            "amount": 0.25204282227248687,
+            "source": "USDA"
+        },
+        "262": {
+            "amount": 0.004151416861876673,
+            "source": "Imputed from USDA"
+        },
+        "309": {
+            "amount": 0.13613160914429454,
+            "source": "USDA"
+        }
+    },
+    "id": "USDA_35185"
+}
+
